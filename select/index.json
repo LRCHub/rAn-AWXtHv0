@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Imagine",
+  "base_artist": "John Lennon",
+  "createdAt": "2026-02-27T09:50:49.786424Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Imagine That",
+      "artist": "Diamond Rio",
+      "has_synced": true,
+      "path": "select/01_Imagine_That_Diamond_Rio.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Imagine",
+      "artist": "Salt-N-Pepa",
+      "has_synced": true,
+      "path": "select/02_Imagine_Salt-N-Pepa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Imagine The Swan",
+      "artist": "The Zombies",
+      "has_synced": false,
+      "path": "select/03_Imagine_The_Swan_The_Zombies.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "If I Ruled The World (imagine that)",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/04_If_I_Ruled_The_World_(imagine_that)_Nas.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "If I Ruled the World (Imagine That)",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/05_If_I_Ruled_the_World_(Imagine_That)_Nas.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Imagine All Star People",
+      "artist": "Neil Cicierega",
+      "has_synced": true,
+      "path": "select/06_Imagine_All_Star_People_Neil_Cicierega.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Can't Imagine The World Without Me",
+      "artist": "Echobelly",
+      "has_synced": false,
+      "path": "select/07_I_Can't_Imagine_The_World_Without_Me_Echobelly.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Can Only Imagine - Bonus Commentary",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/08_I_Can_Only_Imagine_-_Bonus_Commentary_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Can Only Imagine",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/09_I_Can_Only_Imagine_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "imagine",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/10_imagine_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Can't Imagine Love Without You",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/11_Can't_Imagine_Love_Without_You_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Can't Imagine Love Without You (Album Version)",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/12_Can't_Imagine_Love_Without_You_(Album_Version)_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Imagine",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/13_Imagine_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Imagine - Demo",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/14_Imagine_-_Demo_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Imagine (Take 1)",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/15_Imagine_(Take_1)_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Imagine (Take 10, Raw Studio Mix)",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/16_Imagine_(Take_10,_Raw_Studio_Mix)_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Why Imagine",
+      "artist": "Kate Ryan",
+      "has_synced": true,
+      "path": "select/17_Why_Imagine_Kate_Ryan.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Did I Imagine You?",
+      "artist": "Dot Allison",
+      "has_synced": false,
+      "path": "select/18_Did_I_Imagine_You_Dot_Allison.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I Can Only Imagine (R3HAB Remix)",
+      "artist": "David Guetta feat. Chris Brown & Lil Wayne",
+      "has_synced": false,
+      "path": "select/19_I_Can_Only_Imagine_(R3HAB_Remix)_David_Guetta_feat._Chris_Brown_&_Lil_Wayne.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Imagine",
+      "artist": "John Lennon",
+      "has_synced": false,
+      "path": "select/pl_01_Imagine_John_Lennon.txt"
+    }
+  ]
+}
